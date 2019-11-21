@@ -12,6 +12,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, Chase!")
         Text("Zillow is trash")
+        Text("Hello Rex!")
     }
 }
 
