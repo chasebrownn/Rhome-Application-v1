@@ -13,7 +13,7 @@ struct Test_2: View {
     var body: some View {
         VStack{
        
-        Text("Ben is cooler")
+        Text("Ben is the coolest")
         }
     }
 }
