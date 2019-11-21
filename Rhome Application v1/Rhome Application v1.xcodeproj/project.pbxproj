@@ -17,6 +17,7 @@
 		2AA312BC23860726006428A2 /* Rhome_Application_v1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA312BB23860726006428A2 /* Rhome_Application_v1UITests.swift */; };
 		2AFEF70A23861195002E6FC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AFEF70923861195002E6FC8 /* ContentView.swift */; };
 		710B6079238616C40061A77E /* Test 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710B6078238616C40061A77E /* Test 2.swift */; };
+		71E3D767238619550037873B /* Test 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E3D766238619550037873B /* Test 3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		2AA312BD23860726006428A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2AFEF70923861195002E6FC8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		710B6078238616C40061A77E /* Test 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Test 2.swift"; sourceTree = "<group>"; };
+		71E3D766238619550037873B /* Test 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Test 3.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 			isa = PBXGroup;
 			children = (
 				710B6078238616C40061A77E /* Test 2.swift */,
+				71E3D766238619550037873B /* Test 3.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71E3D767238619550037873B /* Test 3.swift in Sources */,
 				2AA3129A23860724006428A2 /* AppDelegate.swift in Sources */,
 				2AA3129C23860724006428A2 /* SceneDelegate.swift in Sources */,
 				2AFEF70A23861195002E6FC8 /* ContentView.swift in Sources */,
