@@ -9,12 +9,13 @@
 /* Begin PBXBuildFile section */
 		2AA3129A23860724006428A2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA3129923860724006428A2 /* AppDelegate.swift */; };
 		2AA3129C23860724006428A2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA3129B23860724006428A2 /* SceneDelegate.swift */; };
-		2AA3129E23860724006428A2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA3129D23860724006428A2 /* ContentView.swift */; };
+		2AA3129E23860724006428A2 /* VerificationPageDRAFT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA3129D23860724006428A2 /* VerificationPageDRAFT.swift */; };
 		2AA312A023860726006428A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AA3129F23860726006428A2 /* Assets.xcassets */; };
 		2AA312A323860726006428A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AA312A223860726006428A2 /* Preview Assets.xcassets */; };
 		2AA312A623860726006428A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AA312A423860726006428A2 /* LaunchScreen.storyboard */; };
 		2AA312B123860726006428A2 /* Rhome_Application_v1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA312B023860726006428A2 /* Rhome_Application_v1Tests.swift */; };
 		2AA312BC23860726006428A2 /* Rhome_Application_v1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA312BB23860726006428A2 /* Rhome_Application_v1UITests.swift */; };
+		2AFEF70A23861195002E6FC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AFEF70923861195002E6FC8 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +39,7 @@
 		2AA3129623860724006428A2 /* Rhome Application v1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rhome Application v1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AA3129923860724006428A2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2AA3129B23860724006428A2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		2AA3129D23860724006428A2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2AA3129D23860724006428A2 /* VerificationPageDRAFT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerificationPageDRAFT.swift; sourceTree = "<group>"; };
 		2AA3129F23860726006428A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AA312A223860726006428A2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2AA312A523860726006428A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +50,7 @@
 		2AA312B723860726006428A2 /* Rhome Application v1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rhome Application v1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AA312BB23860726006428A2 /* Rhome_Application_v1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rhome_Application_v1UITests.swift; sourceTree = "<group>"; };
 		2AA312BD23860726006428A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2AFEF70923861195002E6FC8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +103,8 @@
 			children = (
 				2AA3129923860724006428A2 /* AppDelegate.swift */,
 				2AA3129B23860724006428A2 /* SceneDelegate.swift */,
-				2AA3129D23860724006428A2 /* ContentView.swift */,
+				2AA3129D23860724006428A2 /* VerificationPageDRAFT.swift */,
+				2AFEF70923861195002E6FC8 /* ContentView.swift */,
 				2AA3129F23860726006428A2 /* Assets.xcassets */,
 				2AA312A423860726006428A2 /* LaunchScreen.storyboard */,
 				2AA312A723860726006428A2 /* Info.plist */,
@@ -269,7 +272,8 @@
 			files = (
 				2AA3129A23860724006428A2 /* AppDelegate.swift in Sources */,
 				2AA3129C23860724006428A2 /* SceneDelegate.swift in Sources */,
-				2AA3129E23860724006428A2 /* ContentView.swift in Sources */,
+				2AFEF70A23861195002E6FC8 /* ContentView.swift in Sources */,
+				2AA3129E23860724006428A2 /* VerificationPageDRAFT.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
