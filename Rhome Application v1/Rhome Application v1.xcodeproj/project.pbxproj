@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A075AC82386203000F15A9B /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A075AC72386203000F15A9B /* Media.xcassets */; };
 		2AA3129A23860724006428A2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA3129923860724006428A2 /* AppDelegate.swift */; };
 		2AA3129C23860724006428A2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA3129B23860724006428A2 /* SceneDelegate.swift */; };
 		2AA3129E23860724006428A2 /* VerificationPageDRAFT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA3129D23860724006428A2 /* VerificationPageDRAFT.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2A075AC72386203000F15A9B /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		2AA3129623860724006428A2 /* Rhome Application v1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rhome Application v1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AA3129923860724006428A2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2AA3129B23860724006428A2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +86,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2A075AC92386253500F15A9B /* Group 1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Group 1";
+			sourceTree = "<group>";
+		};
 		2AA3128D23860724006428A2 = {
 			isa = PBXGroup;
 			children = (
@@ -111,8 +120,9 @@
 				2AA3129B23860724006428A2 /* SceneDelegate.swift */,
 				2AA3129D23860724006428A2 /* VerificationPageDRAFT.swift */,
 				2AFEF70923861195002E6FC8 /* ContentView.swift */,
-				2ACE3D9D23861CF200B04769 /* New Group1 */,
-				710B6077238616AB0061A77E /* New Group */,
+				2A075AC92386253500F15A9B /* Group 1 */,
+				2ACE3D9D23861CF200B04769 /* Group 2 */,
+				710B6077238616AB0061A77E /* Group 3 */,
 				2AA3129F23860726006428A2 /* Assets.xcassets */,
 				2AA312A423860726006428A2 /* LaunchScreen.storyboard */,
 				2AA312A723860726006428A2 /* Info.plist */,
@@ -147,21 +157,22 @@
 			path = "Rhome Application v1UITests";
 			sourceTree = "<group>";
 		};
-		2ACE3D9D23861CF200B04769 /* New Group1 */ = {
+		2ACE3D9D23861CF200B04769 /* Group 2 */ = {
 			isa = PBXGroup;
 			children = (
 				2ACE3D9E23861D0C00B04769 /* SwiftUIView.swift */,
 			);
-			path = "New Group1";
+			path = "Group 2";
 			sourceTree = "<group>";
 		};
-		710B6077238616AB0061A77E /* New Group */ = {
+		710B6077238616AB0061A77E /* Group 3 */ = {
 			isa = PBXGroup;
 			children = (
 				710B6078238616C40061A77E /* Test 2.swift */,
 				71E3D766238619550037873B /* Test 3.swift */,
+				2A075AC72386203000F15A9B /* Media.xcassets */,
 			);
-			path = "New Group";
+			path = "Group 3";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -270,6 +281,7 @@
 			files = (
 				2AA312A623860726006428A2 /* LaunchScreen.storyboard in Resources */,
 				2AA312A323860726006428A2 /* Preview Assets.xcassets in Resources */,
+				2A075AC82386203000F15A9B /* Media.xcassets in Resources */,
 				2AA312A023860726006428A2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
