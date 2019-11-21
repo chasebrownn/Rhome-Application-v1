@@ -15,6 +15,7 @@
 		2AA312A623860726006428A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AA312A423860726006428A2 /* LaunchScreen.storyboard */; };
 		2AA312B123860726006428A2 /* Rhome_Application_v1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA312B023860726006428A2 /* Rhome_Application_v1Tests.swift */; };
 		2AA312BC23860726006428A2 /* Rhome_Application_v1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA312BB23860726006428A2 /* Rhome_Application_v1UITests.swift */; };
+		2ACE3D9F23861D0C00B04769 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACE3D9E23861D0C00B04769 /* SwiftUIView.swift */; };
 		2AFEF70A23861195002E6FC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AFEF70923861195002E6FC8 /* ContentView.swift */; };
 		710B6079238616C40061A77E /* Test 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710B6078238616C40061A77E /* Test 2.swift */; };
 		71E3D767238619550037873B /* Test 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E3D766238619550037873B /* Test 3.swift */; };
@@ -52,6 +53,7 @@
 		2AA312B723860726006428A2 /* Rhome Application v1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rhome Application v1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AA312BB23860726006428A2 /* Rhome_Application_v1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rhome_Application_v1UITests.swift; sourceTree = "<group>"; };
 		2AA312BD23860726006428A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2ACE3D9E23861D0C00B04769 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		2AFEF70923861195002E6FC8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		710B6078238616C40061A77E /* Test 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Test 2.swift"; sourceTree = "<group>"; };
 		71E3D766238619550037873B /* Test 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Test 3.swift"; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				2AA3129B23860724006428A2 /* SceneDelegate.swift */,
 				2AA3129D23860724006428A2 /* VerificationPageDRAFT.swift */,
 				2AFEF70923861195002E6FC8 /* ContentView.swift */,
+				2ACE3D9D23861CF200B04769 /* New Group1 */,
 				710B6077238616AB0061A77E /* New Group */,
 				2AA3129F23860726006428A2 /* Assets.xcassets */,
 				2AA312A423860726006428A2 /* LaunchScreen.storyboard */,
@@ -142,6 +145,14 @@
 				2AA312BD23860726006428A2 /* Info.plist */,
 			);
 			path = "Rhome Application v1UITests";
+			sourceTree = "<group>";
+		};
+		2ACE3D9D23861CF200B04769 /* New Group1 */ = {
+			isa = PBXGroup;
+			children = (
+				2ACE3D9E23861D0C00B04769 /* SwiftUIView.swift */,
+			);
+			path = "New Group1";
 			sourceTree = "<group>";
 		};
 		710B6077238616AB0061A77E /* New Group */ = {
@@ -285,6 +296,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71E3D767238619550037873B /* Test 3.swift in Sources */,
+				2ACE3D9F23861D0C00B04769 /* SwiftUIView.swift in Sources */,
 				2AA3129A23860724006428A2 /* AppDelegate.swift in Sources */,
 				2AA3129C23860724006428A2 /* SceneDelegate.swift in Sources */,
 				2AFEF70A23861195002E6FC8 /* ContentView.swift in Sources */,
